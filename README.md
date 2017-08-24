@@ -6,11 +6,18 @@ Comes in no particular order :recycle:
 U like it? Share with a friendly developer!  
 U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
 
+*P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.  
+But knowing the stuff will help you become better! :muscle:*
 
 ---- 
 
-### Floating Point
-- [Floating Point Guide](http://floating-point-gui.de/)
+### Algorithms
+- [Big O Cheatsheet](http://bigocheatsheet.com/)
+- :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
+
+### Numbers
+- :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
+- :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
 
 ### Strings
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
@@ -20,6 +27,7 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 
 ### Latency 
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+- :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 ### Time
 - :page_facing_up: [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
@@ -41,7 +49,11 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 - [RegexHQ](https://github.com/regexhq)
 
 ### Security
+- :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
 - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+
+### SEO
+- :page_facing_up: [What Every Programmer Should Know About SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)
 
 ### Arhitecture
 - :scroll: [A Field Guide to Boxology](http://web.cs.wpi.edu/~cs562/s98/pdf/Boxology.pdf)
@@ -56,10 +68,10 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 - :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
-- :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 
 ### Career 
+- :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 - :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
 - [Software Engineering 101](slides.com/mr-mig/se101)
@@ -72,6 +84,7 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
 - :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.esharesinc.com/equity-101-stock-option-basics/)
+- :book: [Cracking the Coding Interview: 150 Programming Questions and Solutions](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
 
 
 ### Engineering Philosophy

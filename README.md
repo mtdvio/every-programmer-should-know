@@ -61,4 +61,4 @@ Comes in no particular order :recycle:
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
 
 ### Free Books on Programming
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)

@@ -3,6 +3,10 @@ A collection of (mostly) technical things every software developer should know.
 Highly opinionated :bomb:. Not backed by science.  
 Comes in no particular order :recycle:
 
+U like it? Share with a friendly developer!  
+U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
+
+
 ---- 
 
 ### Floating Point

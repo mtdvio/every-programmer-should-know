@@ -94,6 +94,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Engineering Philosophy
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 - :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
+- :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
 
 ### Papers on Programming 
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love) 

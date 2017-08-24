@@ -30,12 +30,18 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 - :page_facing_up: [What every Programmer should know about memory](http://lwn.net/Articles/250967/)
 
 ### Distributed Systems
+- :book: [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 - :scroll: [Designs, Lessons and Advice from Building Large Distributed Systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 - :scroll: [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
 - :page_facing_up: [There is No Now](http://queue.acm.org/detail.cfm?id=2745385)
+- :page_facing_up: [Jepsen: how different databases behave under partition](https://aphyr.com/tags/jepsen)
+- :scroll: [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
 
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
+
+### Security
+- [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 ### Arhitecture
 - :scroll: [A Field Guide to Boxology](http://web.cs.wpi.edu/~cs562/s98/pdf/Boxology.pdf)
@@ -43,11 +49,15 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 - :scroll: [No Silver Bullet — Essence and Accidents of Software Engineering](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf)
 - :movie_camera: [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - :movie_camera: [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
+- :book: [Practical Object Oriented Design in Ruby](http://www.poodr.com/)
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 - :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
+- :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
+- :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
+- :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 
 ### Career 
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
@@ -56,9 +66,17 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 - :book: [The Passionate Programmer](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
 - :book: [Soft Skills: The software developer's life manual](https://www.goodreads.com/book/show/23232941-soft-skills)
 - :book: [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.goodreads.com/book/show/29895093-programming-beyond-practices)
+- [A list of European Investors](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
+- :page_facing_up: [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+- :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
+- :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
+- :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
+- :page_facing_up: [Equity 101 for Startup Employees](https://blog.esharesinc.com/equity-101-stock-option-basics/)
+
 
 ### Engineering Philosophy
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+- :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
 
 ### Papers on Programming 
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love) 
@@ -66,3 +84,10 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
+### Services
+- [Free For Dev](https://github.com/ripienaar/free-for-dev/blob/master/README.md)
+- [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
+- [The Noun Project](https://thenounproject.com/)
+- [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
+- [Simpleicons](https://simpleicons.org/)

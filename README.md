@@ -1,4 +1,4 @@
-# Every Developer Should Know :thinking:
+# Every Programmer Should Know :thinking:
 A collection of (mostly) technical things every software developer should know.  
 Highly opinionated :bomb:. Not backed by science.  
 Comes in no particular order :recycle:
@@ -24,6 +24,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 - [Homoglyphs](https://github.com/codebox/homoglyph/)
 - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
+- [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
 ### Latency 
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
@@ -98,7 +99,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-### Services
+### Services :zap:
 - [Free For Dev](https://github.com/ripienaar/free-for-dev/blob/master/README.md)
 - [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
 - [The Noun Project](https://thenounproject.com/)

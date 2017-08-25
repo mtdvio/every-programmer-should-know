@@ -66,6 +66,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - :movie_camera: [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - :book: [Practical Object Oriented Design in Ruby](http://www.poodr.com/)
+- :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)

@@ -59,7 +59,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### SEO
 - :page_facing_up: [What Every Programmer Should Know About SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)
 
-### Arhitecture
+### Architecture
 - :scroll: [A Field Guide to Boxology](http://web.cs.wpi.edu/~cs562/s98/pdf/Boxology.pdf)
 - :scroll: [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf?raw=true)
 - :scroll: [No Silver Bullet — Essence and Accidents of Software Engineering](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf)

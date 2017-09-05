@@ -38,6 +38,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
 - :page_facing_up: [More falsehoods programmers believe about time; “wisdom of the crowd” edition](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/?v=1)
+- :page_facing_up: [Falsehoods programmers believe about time and time zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html)
 
 ### Memory
 - :page_facing_up: [What every Programmer should know about memory](http://lwn.net/Articles/250967/)

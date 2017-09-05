@@ -22,6 +22,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Numbers
 - :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
 - :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
+- :page_facing_up: [Falsehoods Programmers Believe About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md)
 
 ### Strings
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)

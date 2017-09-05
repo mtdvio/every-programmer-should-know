@@ -69,6 +69,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Practical Object Oriented Design in Ruby](http://www.poodr.com/)
 - :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
 
+### Design Patterns
+- :scroll: [Design Patterns and Descriptions with Examples](https://sourcemaking.com/design_patterns)
+- :scroll: [Design Patterns for .NET](http://www.dofactory.com/net/design-patterns)
+
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 - :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)

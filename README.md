@@ -56,6 +56,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [RegexHQ](https://github.com/regexhq)
 
 ### Security
+- :page_facing_up: [Rolling Your Own Crypto](http://loup-vaillant.fr/articles/rolling-your-own-crypto)
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
 - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 

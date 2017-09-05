@@ -77,6 +77,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
 - :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+- :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 
 ### Career 
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)

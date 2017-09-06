@@ -77,6 +77,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
 - :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+- :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 
 ### Career 
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
@@ -94,9 +95,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.esharesinc.com/equity-101-stock-option-basics/)
 - :book: [Cracking the Coding Interview: 150 Programming Questions and Solutions](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
-
-### Paradigms
-- :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 
 ### Engineering Philosophy
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)

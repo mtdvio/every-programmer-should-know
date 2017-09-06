@@ -105,6 +105,11 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
 - :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html)
 
+### Soft Skills
+- :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
+- :book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
+- :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
 ### Papers on Programming 
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love) 
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)

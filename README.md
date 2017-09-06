@@ -56,6 +56,8 @@ But knowing the stuff will help you become better! :muscle:*
 - [RegexHQ](https://github.com/regexhq)
 
 ### Security
+- :book: [Security Programming] (https://www.dwheeler.com/secure-programs/)
+- :page_facing_up: [Rolling Your Own Crypto](http://loup-vaillant.fr/articles/rolling-your-own-crypto)
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
 - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
@@ -77,6 +79,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
 - :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+- :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
+- :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 - :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 
 ### Career 
@@ -101,6 +105,12 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
 - :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
 - :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
+- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html)
+
+### Soft Skills
+- :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
+- :book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
+- :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
 ### Papers on Programming 
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love) 

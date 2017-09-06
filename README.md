@@ -30,6 +30,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Homoglyphs](https://github.com/codebox/homoglyph/)
 - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
 - [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+- [EXACT STRING MATCHING ALGORITHMS](http://www-igm.univ-mlv.fr/~lecroq/string/index.html)
 
 ### Latency 
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)

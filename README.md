@@ -35,6 +35,9 @@ But knowing the stuff will help you become better! :muscle:*
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
+### Addresses
+- [Falsehoods Programmers Believe About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
+
 ### Time
 - :page_facing_up: [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
 - :page_facing_up: [More falsehoods programmers believe about time; “wisdom of the crowd” edition](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)

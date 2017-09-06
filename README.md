@@ -79,6 +79,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
 - :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
+- :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 
 ### Career 
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
@@ -96,7 +97,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.esharesinc.com/equity-101-stock-option-basics/)
 - :book: [Cracking the Coding Interview: 150 Programming Questions and Solutions](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
-
 
 ### Engineering Philosophy
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)

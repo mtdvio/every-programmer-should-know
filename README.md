@@ -81,6 +81,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 - :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
+- :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 
 ### Career 
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)

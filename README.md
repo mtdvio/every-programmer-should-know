@@ -14,6 +14,11 @@ But knowing the stuff will help you become better! :muscle:*
 
 ---- 
 
+### Falsehoods
+- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
+  💊 Curated list of falsehoods programmers believe in.    
+  Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
+
 ### Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
@@ -22,27 +27,18 @@ But knowing the stuff will help you become better! :muscle:*
 ### Numbers
 - :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
 - :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
-- :page_facing_up: [Falsehoods Programmers Believe About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md)
 
 ### Strings
-- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - :page_facing_up: [Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 - [Homoglyphs](https://github.com/codebox/homoglyph/)
 - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
-- [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
 ### Latency 
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
-### Addresses
-- [Falsehoods Programmers Believe About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
-
 ### Time
-- :page_facing_up: [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
-- :page_facing_up: [More falsehoods programmers believe about time; “wisdom of the crowd” edition](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/?v=1)
-- :page_facing_up: [Falsehoods programmers believe about time and time zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html)
 
 ### Memory
 - :page_facing_up: [What every Programmer should know about memory](http://lwn.net/Articles/250967/)

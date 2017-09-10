@@ -24,6 +24,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [Sorting Algorithms](https://visualgo.net/en/sorting)
 
+### Languages
+- [Learn X in Y Minutes](https://learnxinyminutes.com/) Learn the basics of a language in a highly condensed way.
+- [Hyperpolyglot](http://hyperpolyglot.org/) Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
+
 ### Numbers
 - :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
 - :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)

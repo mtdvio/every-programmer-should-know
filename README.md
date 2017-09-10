@@ -14,6 +14,9 @@ But knowing the stuff will help you become better! :muscle:*
 
 ---- 
 
+### Introduction
+- :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 
+
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
   💊 Curated list of falsehoods programmers believe in.    

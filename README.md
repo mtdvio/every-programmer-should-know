@@ -28,6 +28,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Sorting Algorithms](https://visualgo.net/en/sorting)
 
 ### Numbers
+- :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
 - :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
 - :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
 

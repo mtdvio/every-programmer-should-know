@@ -24,10 +24,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [Sorting Algorithms](https://visualgo.net/en/sorting)
 
-### Languages
-- [Learn X in Y Minutes](https://learnxinyminutes.com/) Learn the basics of a language in a highly condensed way.
-- [Hyperpolyglot](http://hyperpolyglot.org/) Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
-
 ### Numbers
 - :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
 - :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
@@ -85,6 +81,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 - :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 - :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)  
+  Learn the basics of a language in a highly condensed way.
+- [Hyperpolyglot](http://hyperpolyglot.org/)  
+  Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
 
 ### Career 
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)

@@ -29,6 +29,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Numbers
 - :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
+- :page_facing_up: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#680)
 - :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
 
 ### Strings

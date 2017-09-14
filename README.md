@@ -16,6 +16,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Introduction
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 
+- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci) 
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
@@ -29,6 +30,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Numbers
 - :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
+- :page_facing_up: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#680)
 - :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
 
 ### Strings

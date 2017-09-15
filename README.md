@@ -111,6 +111,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
 - :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html)
 - :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
+- :movie_camera: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754)
 
 ### Soft Skills
 - :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)

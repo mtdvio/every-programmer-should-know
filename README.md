@@ -6,7 +6,7 @@ A collection of (mostly) technical things every software developer should know.
 Highly opinionated :bomb:. Not backed by science.  
 Comes in no particular order :recycle:
 
-U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer! 
+U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer!
 U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
 
 *P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.  
@@ -14,11 +14,10 @@ But knowing the stuff will help you become better! :muscle:*
 
 *P.P.S. [Contributions](CONTRIBUTING.md) are welcomed!*
 
----- 
 
 ### Introduction
-- :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 
-- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci) 
+- :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
@@ -44,7 +43,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Homoglyphs](https://github.com/codebox/homoglyph/)
 - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
 
-### Latency 
+### Latency
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
@@ -99,7 +98,7 @@ But knowing the stuff will help you become better! :muscle:*
   Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
 - :page_facing_up: [Pomodoro for Programmers](http://www.metadevelopment.io/pomodoro-for-programmers/)
 
-### Career 
+### Career
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 - :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
@@ -131,8 +130,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
-### Papers on Programming 
-- :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love) 
+### Papers on Programming
+- :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
 
 ### Free Books on Programming
@@ -145,8 +144,15 @@ But knowing the stuff will help you become better! :muscle:*
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)
 - [Learn Anything](https://learn-anything.xyz/)
-
 ### Where To Look For Further Info
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
 - [Stackoverflow](https://stackoverflow.com/)
+### Coding Practice Sites :zap:
+- :link: [CodeForces](http://codeforces.com/)
+- :link: [CodeChef](https://www.codechef.com)
+- :link: [Cs Academy](https://csacademy.com/)
+- :link: [HackerRank](https://hackerrank.com/)
+- :link: [Spoj](https://spoj.com/)
+- :link: [HackerEarth](https://hackerearth.com/)
+- :link: [TopCoder](https://www.topcoder.com/)

@@ -14,6 +14,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 *P.P.S. [Contributions](CONTRIBUTING.md) are welcomed!*
 
+----
 
 ### Introduction
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)

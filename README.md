@@ -18,6 +18,15 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 
 - :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci) 
 
+### Websites
+- [Hacker News](https://news.ycombinator.com)   
+   A social news website focusing on computer science and entrepreneurship.
+- [Lobsters](https://lobste.rs)   
+   A leaner and invite only version of Hacker news.
+- [DiscoverDev](https://discoverdev.io)   
+   💊 A daily curated list of the best engineering blogs from around the web. (Also a mailing list)
+
+
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
   💊 Curated list of falsehoods programmers believe in.    

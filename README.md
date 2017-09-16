@@ -128,3 +128,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :white_check_mark: [CodeForces](http://codeforces.com/)
 - :white_check_mark: [CodeChef](https://www.codechef.com)
 - :white_check_mark: [Cs Academy](https://csacademy.com/)
+- :white_check_mark: [HackerRank](https://hackerrank.com/)
+- :white_check_mark: [Spoj](https://spoj.com/)
+- :white_check_mark: [HackerEarth](https://hackerearth.com/)
+- :white_check_mark: [TopCoder](https://www.topcoder.com/)

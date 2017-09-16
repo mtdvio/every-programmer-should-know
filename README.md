@@ -12,11 +12,12 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 *P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.  
 But knowing the stuff will help you become better! :muscle:*
 
+*P.P.S. [Contributions](CONTRIBUTING.md) are welcomed!*
 
 
 ### Introduction
-- :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 
-- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci) 
+- :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  

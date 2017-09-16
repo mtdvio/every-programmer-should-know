@@ -6,13 +6,13 @@ A collection of (mostly) technical things every software developer should know.
 Highly opinionated :bomb:. Not backed by science.  
 Comes in no particular order :recycle:
 
-U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer! 
+U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer!
 U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
 
 *P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.  
 But knowing the stuff will help you become better! :muscle:*
 
----- 
+----
 
 ### Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
@@ -31,7 +31,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
 - [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
-### Latency 
+### Latency
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
@@ -82,7 +82,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 - :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 
-### Career 
+### Career
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 - :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
@@ -111,8 +111,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
-### Papers on Programming 
-- :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love) 
+### Papers on Programming
+- :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
 
 ### Free Books on Programming
@@ -124,3 +124,5 @@ But knowing the stuff will help you become better! :muscle:*
 - [The Noun Project](https://thenounproject.com/)
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)
+### Coding Practice Sites :zap:
+- :white_check_mark: [http://codeforces.com/]

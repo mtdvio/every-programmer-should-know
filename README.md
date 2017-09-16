@@ -125,4 +125,6 @@ But knowing the stuff will help you become better! :muscle:*
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)
 ### Coding Practice Sites :zap:
-- :white_check_mark: [http://codeforces.com/]
+- :white_check_mark: [CodeForces](http://codeforces.com/)
+- :white_check_mark: [CodeChef](https://www.codechef.com)
+- :white_check_mark: [Cs Academy](https://csacademy.com/)

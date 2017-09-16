@@ -152,6 +152,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Coding Practice Sites :zap:
 - :link: [CodeForces](http://codeforces.com/)
 - :link: [CodeChef](https://www.codechef.com)
+- :link: [CodinGame](https://www.codingame.com/)
 - :link: [Cs Academy](https://csacademy.com/)
 - :link: [HackerRank](https://hackerrank.com/)
 - :link: [Spoj](https://spoj.com/)

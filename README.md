@@ -102,7 +102,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
 - :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.esharesinc.com/equity-101-stock-option-basics/)
-- :book: [Cracking the Coding Interview: 150 Programming Questions and Solutions](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
+- :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 
 ### Engineering Philosophy

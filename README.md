@@ -62,6 +62,9 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Jepsen: how different databases behave under partition](https://aphyr.com/tags/jepsen)
 - :scroll: [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
 
+### Version Control Systems
+- :page_facing_up: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
 - [Learn regex the easy way](https://github.com/zeeshanu/learn-regex.git)
@@ -83,6 +86,9 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - :book: [Practical Object Oriented Design in Ruby](http://www.poodr.com/)
 - :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
+- :scroll: [Microservices](https://martinfowler.com/articles/microservices.html)
+- :movie_camera: [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+- :scroll: [Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
@@ -125,6 +131,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html)
 - :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
 - :page_facing_up: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754)
+- :movie_camera: [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)
+- :movie_camera: [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
 
 ### Soft Skills
 - :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)

@@ -62,6 +62,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Jepsen: how different databases behave under partition](https://aphyr.com/tags/jepsen)
 - :scroll: [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
 
+### Version Control Systems
+- :page_facing_up: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
+
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
 - [Learn regex the easy way](https://github.com/zeeshanu/learn-regex.git)

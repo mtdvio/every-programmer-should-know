@@ -88,6 +88,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
 - :scroll: [Microservices](https://martinfowler.com/articles/microservices.html)
 - :movie_camera: [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+- :scroll: [Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)

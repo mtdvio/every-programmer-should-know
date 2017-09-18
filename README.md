@@ -6,17 +6,19 @@ A collection of (mostly) technical things every software developer should know.
 Highly opinionated :bomb:. Not backed by science.  
 Comes in no particular order :recycle:
 
-U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer! 
+U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer!
 U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
 
 *P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.  
 But knowing the stuff will help you become better! :muscle:*
 
----- 
+*P.P.S. [Contributions](CONTRIBUTING.md) are welcomed!*
+
+----
 
 ### Introduction
-- :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 
-- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci) 
+- :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
@@ -28,7 +30,11 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [Sorting Algorithms](https://visualgo.net/en/sorting)
 
+### Data Structures
+- :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
+
 ### Numbers
+- :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
 - :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
 - :page_facing_up: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#680)
 - :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
@@ -38,7 +44,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Homoglyphs](https://github.com/codebox/homoglyph/)
 - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
 
-### Latency 
+### Latency
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
@@ -58,6 +64,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
+- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex.git)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
@@ -86,14 +93,20 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 - :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 - :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)  
+  Learn the basics of a language in a highly condensed way.
+- [Hyperpolyglot](http://hyperpolyglot.org/)  
+  Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
+- :page_facing_up: [Pomodoro for Programmers](http://www.metadevelopment.io/pomodoro-for-programmers/)
 
-### Career 
+### Career
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 - :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
 - [Software Engineering 101](https://slides.com/mr-mig/se101)
 - :book: [The Passionate Programmer](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
 - :book: [Soft Skills: The software developer's life manual](https://www.goodreads.com/book/show/23232941-soft-skills)
+- :book: [The Complete Software Developer's Career Guide](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
 - :book: [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.goodreads.com/book/show/29895093-programming-beyond-practices)
 - [A list of European Investors](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
 - :page_facing_up: [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
@@ -101,7 +114,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
 - :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.esharesinc.com/equity-101-stock-option-basics/)
-- :book: [Cracking the Coding Interview: 150 Programming Questions and Solutions](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
+- :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 
 ### Engineering Philosophy
@@ -109,16 +122,19 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
 - :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
 - :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
-- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html)
+- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
+- :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
+- :page_facing_up: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754)
 
 ### Soft Skills
 - :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - :book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
-### Papers on Programming 
-- :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love) 
+### Papers on Programming
+- :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
+- 📜 [What Every Programmer Should Know About Memory](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
 
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
@@ -130,8 +146,16 @@ But knowing the stuff will help you become better! :muscle:*
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)
 - [Learn Anything](https://learn-anything.xyz/)
-
 ### Where To Look For Further Info
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
 - [Stackoverflow](https://stackoverflow.com/)
+### Coding Practice Sites :zap:
+- :link: [CodeForces](http://codeforces.com/)
+- :link: [CodeChef](https://www.codechef.com)
+- :link: [CodinGame](https://www.codingame.com/)
+- :link: [Cs Academy](https://csacademy.com/)
+- :link: [HackerRank](https://hackerrank.com/)
+- :link: [Spoj](https://spoj.com/)
+- :link: [HackerEarth](https://hackerearth.com/)
+- :link: [TopCoder](https://www.topcoder.com/)

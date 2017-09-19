@@ -49,7 +49,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 ### Time
-- :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/?v=1)
+- :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
 
 ### Memory
 - :page_facing_up: [What every Programmer should know about memory](http://lwn.net/Articles/250967/)

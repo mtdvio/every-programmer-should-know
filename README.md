@@ -49,7 +49,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 ### Time
-- :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/?v=1)
+- :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
 
 ### Memory
 - :page_facing_up: [What every Programmer should know about memory](http://lwn.net/Articles/250967/)
@@ -122,7 +122,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
 - :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
 - :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
-- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html)
+- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
 - :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
 - :page_facing_up: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754)
 
@@ -160,3 +160,5 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [HackerEarth](https://hackerearth.com/)
 - :link: [TopCoder](https://www.topcoder.com/)
 - :link: [Codewars](http://codewars.com/)
+- :link: [Exercism](http://www.exercism.io/)
+- :link: [CodeFights](https://codefights.com/)

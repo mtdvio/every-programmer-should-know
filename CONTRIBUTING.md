@@ -21,14 +21,14 @@ We :heart: essential stuff.<br>
 This is why we strive to having less, but most valuable resources in the list.
 </p></details>
 
-<details><summary> We :heart: widely applicable knowledge/skills. </summary><p>
+<details><summary>We :heart: widely applicable knowledge/skills. </summary><p>
 
 The world is not static. Everything changes.<br>
 This is why we prioritize strategically valuable skills/knowledge.<br>
 This is why there are so many philosophical resources in that list.
 </p></details>
 
-<details><summary> We do not add to stress/hype level :zap: </summary><p>
+<details><summary>We do not add to stress/hype level :zap: </summary><p>
 
 There are enough stress sources in everybody's lifes.<br>
 We strive to be helpful without adding to the stress and creating hype.<br>

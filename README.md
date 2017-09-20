@@ -49,7 +49,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 ### Time
-- :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/?v=1)
+- :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
 
 ### Memory
 - :page_facing_up: [What every Programmer should know about memory](http://lwn.net/Articles/250967/)
@@ -83,6 +83,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - :book: [Practical Object Oriented Design in Ruby](http://www.poodr.com/)
 - :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
+- [System Design: A Primer](https://github.com/donnemartin/system-design-primer)
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
@@ -159,4 +160,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Spoj](https://spoj.com/)
 - :link: [HackerEarth](https://hackerearth.com/)
 - :link: [TopCoder](https://www.topcoder.com/)
+- :link: [Codewars](http://codewars.com/)
+- :link: [Exercism](http://www.exercism.io/)
+- :link: [CodeFights](https://codefights.com/)
 - :link: [Project Euler](https://projecteuler.net/)

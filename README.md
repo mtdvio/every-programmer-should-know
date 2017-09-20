@@ -163,3 +163,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Codewars](http://codewars.com/)
 - :link: [Exercism](http://www.exercism.io/)
 - :link: [CodeFights](https://codefights.com/)
+- :link: [Project Euler](https://projecteuler.net/)

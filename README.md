@@ -167,3 +167,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Exercism](http://www.exercism.io/)
 - :link: [CodeFights](https://codefights.com/)
 - :link: [Project Euler](https://projecteuler.net/)
+- :link: [InterviewBit](https://www.interviewbit.com/)

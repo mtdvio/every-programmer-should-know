@@ -120,6 +120,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 
+### Remote Work
+- :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
+- :zap: [NomadList](https://nomadlist.com/)
+
 ### Engineering Philosophy
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 - :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)

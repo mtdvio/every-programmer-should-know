@@ -150,6 +150,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Simpleicons](https://simpleicons.org/)
 - [Learn Anything](https://learn-anything.xyz/)
 ### Where To Look For Further Info
+- [freeCodeCamp Guide](https://guide.freecodecamp.org/)
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
 - [Stackoverflow](https://stackoverflow.com/)

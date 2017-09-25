@@ -4,7 +4,7 @@ Our goal is to have a **comprehensible** list of most valuable things any progra
 
 ## Contributing
 
-You contributions to this repo is always welcome!   
+Your contributions to this repo are always welcome!   
 Bear in mind, that this repo is *highly opinionated* and *curated*.  
 Your opinion on value of any resource may not match the opinion of curator. 
 

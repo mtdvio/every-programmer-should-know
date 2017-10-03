@@ -127,6 +127,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
 - :zap: [NomadList](https://nomadlist.com/)
 - :book: [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
+- :house: [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
 ### Engineering Philosophy
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)

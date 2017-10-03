@@ -123,6 +123,9 @@ But knowing the stuff will help you become better! :muscle:*
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 - :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
+## Interview
+- :page_facing_up: [21 Essential JavaScript Interview Questions](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z)
+
 ### Remote Work
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
 - :zap: [NomadList](https://nomadlist.com/)

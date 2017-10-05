@@ -159,6 +159,9 @@ But knowing the stuff will help you become better! :muscle:*
 - [Simpleicons](https://simpleicons.org/)
 - [Learn Anything](https://learn-anything.xyz/)
 
+### Licenses
+- [Choose An Open Source License](https://choosealicense.com/)
+
 ### Where To Look For Further Info
 - [freeCodeCamp Guide](https://guide.freecodecamp.org/)
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)

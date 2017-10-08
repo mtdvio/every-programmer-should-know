@@ -26,13 +26,13 @@ But knowing the stuff will help you become better! :muscle:*
   Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
 
 ### Algorithms
-- [Big O Cheatsheet](http://bigocheatsheet.com/)
+- :page_facing_up:[Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
-- [Algorithms Visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- :page_facing_up: [Algorithms Visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Data Structures
 - :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
-- [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
+- :personal_computer: [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
 - [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 

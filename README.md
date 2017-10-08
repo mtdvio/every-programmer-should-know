@@ -164,7 +164,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :ballot_box_with_check: [Choose An Open Source License](https://choosealicense.com/)
 
 ### Where To Look For Further Info
-- :computer:[freeCodeCamp Guide](https://guide.freecodecamp.org/)
+- :computer: [freeCodeCamp Guide](https://guide.freecodecamp.org/)
 - :page_facing_up: [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - :page_facing_up: [Dev.To](https://dev.to/)
 - :speech_balloon: [Stackoverflow](https://stackoverflow.com/)

@@ -22,7 +22,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
-   Curated list of falsehoods programmers believe in.    
+  💊 Curated list of falsehoods programmers believe in.    
   Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
 
 ### Algorithms
@@ -149,7 +149,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Papers on Programming
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
--  [What Every Programmer Should Know About Memory](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+- 📜 [What Every Programmer Should Know About Memory](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
 
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)

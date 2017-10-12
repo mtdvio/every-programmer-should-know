@@ -184,3 +184,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Project Euler](https://projecteuler.net/)
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
+
+### Legal
+- :link: [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)

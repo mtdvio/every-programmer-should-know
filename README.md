@@ -164,6 +164,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Licenses
 - [Choose An Open Source License](https://choosealicense.com/)
+- [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
 
 ### Where To Look For Further Info
 - [freeCodeCamp Guide](https://guide.freecodecamp.org/)
@@ -186,3 +187,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Project Euler](https://projecteuler.net/)
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
+

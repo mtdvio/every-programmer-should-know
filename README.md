@@ -156,6 +156,9 @@ But knowing the stuff will help you become better! :muscle:*
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
+### Fun
+- :movie_camera: [Wat](https://www.destroyallsoftware.com/talks/wat)
+
 ### Services :zap:
 - [Free For Dev](https://github.com/ripienaar/free-for-dev/blob/master/README.md)
 - [Public APIs](https://github.com/abhishekbanthia/Public-APIs)

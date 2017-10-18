@@ -91,7 +91,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
-- :book: [Clean Code: A Handbook of Agile Software Craftsmanship] (https://www.goodreads.com/book/show/3735293-clean-code)
+- :book: [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 - :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
@@ -123,7 +123,11 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 - :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- :page_facing_up: [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
+
+### UX/Usability
+- :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 ### Remote Work
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
 - :zap: [NomadList](https://nomadlist.com/)
@@ -162,6 +166,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Licenses
 - :ballot_box_with_check: [Choose An Open Source License](https://choosealicense.com/)
+- [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
 
 ### Where To Look For Further Info
 - :computer: [freeCodeCamp Guide](https://guide.freecodecamp.org/)
@@ -184,3 +189,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Project Euler](https://projecteuler.net/)
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
+

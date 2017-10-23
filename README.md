@@ -190,3 +190,5 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
 
+### Mental Health and Personal Fitness
+- :muscle: [Simple Daily Stretching Routine](https://phrakture.github.io/starting-stretching.html)

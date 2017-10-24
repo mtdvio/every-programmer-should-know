@@ -174,6 +174,13 @@ But knowing the stuff will help you become better! :muscle:*
 - [Dev.To](https://dev.to/)
 - [Stackoverflow](https://stackoverflow.com/)
 
+### Documentaries
+
+- [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ)
+- [Anonymous Documentary ](https://www.youtube.com/watch?v=FAECyLvSCHg)
+- [Internet Hackers](https://www.youtube.com/watch?v=fX3JReuIMyo)
+- [The Effects Of The Internet](https://www.youtube.com/watch?v=Hf4Wq8TMBPc)
+
 ### Coding Practice Sites :zap:
 - :link: [CodeForces](http://codeforces.com/)
 - :link: [CodeChef](https://www.codechef.com)

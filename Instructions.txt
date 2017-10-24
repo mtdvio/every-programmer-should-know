@@ -1,0 +1,11 @@
+To create a pull request:
+
+Create a github account
+Click on the button on that page that says "fork"
+Using either the terminal or a github gui, download or "clone" the repo that you just forked.
+Make the edits you want to make, in this case you can add your name to the index.html file.
+"Commit" your changes -- this will save them locally
+Push your changes -- this will save them on your forked repo
+Create a pull request by going back to the original repo and pressing the button that says "pull request".
+Press "compare across forks" and where it has the drop down list saying head fork you should find your forked repo.
+Choose that and then you can submit the pull request.

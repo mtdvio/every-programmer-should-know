@@ -156,6 +156,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
 - 📜 [What Every Programmer Should Know About Memory](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+- 📜 [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)

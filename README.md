@@ -46,6 +46,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 - [Homoglyphs](https://github.com/codebox/homoglyph/)
 - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
+- :movie_camera: [ASCII](https://www.youtube.com/watch?v=B1Sf1IhA0j4)
+- :movie_camera: [UTF-8](https://www.youtube.com/watch?v=vLBtrd9Ar28)
 
 ### Latency
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)

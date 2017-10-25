@@ -176,7 +176,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [freeCodeCamp Guide](https://guide.freecodecamp.org/)
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
-- [Stackoverflow](https://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)
 
 ### Coding Practice Sites :zap:
 - :link: [CodeForces](http://codeforces.com/)

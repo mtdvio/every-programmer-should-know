@@ -75,7 +75,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
 - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
-- [A collection of hacking / penetration testing resources to make you better!](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
 ### SEO
 - :page_facing_up: [What Every Programmer Should Know About SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)

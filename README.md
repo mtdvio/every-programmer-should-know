@@ -20,6 +20,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 - :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
+### Designers
+- [WWW SQL Designer](http://ondras.zarovi.cz/sql/demo/)
+- [draw.io - Flowchart Designer](https://www.draw.io/)
+
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
   💊 Curated list of falsehoods programmers believe in.    
@@ -70,6 +74,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
 - [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
+- [Regex 101 Tester](https://regex101.com/)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
@@ -134,6 +139,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### UX/Usability
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 - :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+- [Google Fonts](https://fonts.google.com/)
 
 ### Remote Work
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)

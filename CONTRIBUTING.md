@@ -18,7 +18,7 @@ Your opinion on value of any resource may not match the opinion of curator.
 
 We :heart: simplicity.<br>
 We :heart: essential stuff.<br>
-This is why we strive to having less, but most valuable resources in the list.
+We strive to have a smaller list of more valuable resources, quality over quantity.
 </p></details>
 
 <details><summary>We :heart: widely applicable knowledge/skills. </summary><p>
@@ -79,8 +79,22 @@ It is just easier to discuss and decide on a resource within a Pull Request.
 🎥 - Video/Talk  
 📖 - Book  
 📄 - Online article  
-📜 - Paper/Document  
-✅ - Checklist  
+📜 - Paper/Document
+📚 - Hard copy books
+📰 - News source
+✅ - Checklist
+☑️ - Legal checklist (licensing etc)
+💻 - Online courses/instructionals
+💾 - Code, code examples/demos
+🌐 - Networks/networking
+💬 - Forums/Discussions
+⚡️ - Popular tools, fast growing
+🔧 - Services
+🔗 - Code practice
+🏠 - Work from home/remote
+
+
+
 
 </p></details>
 

@@ -26,15 +26,15 @@ But knowing the stuff will help you become better! :muscle:*
   Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
 
 ### Algorithms
-- [Big O Cheatsheet](http://bigocheatsheet.com/)
+- :page_facing_up:[Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
-- [Algorithms Visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- :page_facing_up: [Algorithms Visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Data Structures
 - :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
-- [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
-- [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
-- [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+- :computer: [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
+- :computer: [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
+- :computer: [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
@@ -44,13 +44,13 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Strings
 - :page_facing_up: [Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
-- [Homoglyphs](https://github.com/codebox/homoglyph/)
-- [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
+- :floppy_disk: [Homoglyphs](https://github.com/codebox/homoglyph/)
+- :page_facing_up: [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
 - :movie_camera: [ASCII](https://www.youtube.com/watch?v=B1Sf1IhA0j4)
 - :movie_camera: [UTF-8](https://www.youtube.com/watch?v=vLBtrd9Ar28)
 
 ### Latency
-- [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+- :floppy_disk: [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 ### Time
@@ -68,8 +68,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :scroll: [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
 
 ### RegExp
-- [RegexHQ](https://github.com/regexhq)
-- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
+- :floppy_disk: [RegexHQ](https://github.com/regexhq)
+- :floppy_disk: [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
@@ -77,8 +77,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Cryptographic Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
 - :page_facing_up: [An Open Letter to Developers Everywhere (About Cryptography)](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
-- [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
-- [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
+- :page_facing_up: [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+- :page_facing_up: [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
 
 ### SEO
 - :page_facing_up: [What Every Programmer Should Know About SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)
@@ -103,9 +103,9 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 - :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 - :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
-- [Learn X in Y Minutes](https://learnxinyminutes.com/)  
+- :computer: [Learn X in Y Minutes](https://learnxinyminutes.com/)  
   Learn the basics of a language in a highly condensed way.
-- [Hyperpolyglot](http://hyperpolyglot.org/)  
+- :page_facing_up: [Hyperpolyglot](http://hyperpolyglot.org/)  
   Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
 - :page_facing_up: [Pomodoro for Programmers](http://www.metadevelopment.io/pomodoro-for-programmers/)
 
@@ -113,12 +113,12 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 - :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
-- [Software Engineering 101](https://slides.com/mr-mig/se101)
+- :computer: [Software Engineering 101](https://slides.com/mr-mig/se101)
 - :book: [The Passionate Programmer](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
 - :book: [Soft Skills: The software developer's life manual](https://www.goodreads.com/book/show/23232941-soft-skills)
 - :book: [The Complete Software Developer's Career Guide](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
 - :book: [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.goodreads.com/book/show/29895093-programming-beyond-practices)
-- [A list of European Investors](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
+- :page_facing_up: [A list of European Investors](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
 - :page_facing_up: [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
@@ -170,22 +170,22 @@ But knowing the stuff will help you become better! :muscle:*
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ### Services :zap:
-- [Free For Dev](https://github.com/ripienaar/free-for-dev/blob/master/README.md)
-- [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
-- [The Noun Project](https://thenounproject.com/)
-- [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
-- [Simpleicons](https://simpleicons.org/)
-- [Learn Anything](https://learn-anything.xyz/)
+- :wrench: [Free For Dev](https://github.com/ripienaar/free-for-dev/blob/master/README.md)
+- :wrench: [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
+- :wrench: [The Noun Project](https://thenounproject.com/)
+- :wrench: [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
+- :wrench: [Simpleicons](https://simpleicons.org/)
+- :wrench: [Learn Anything](https://learn-anything.xyz/)
 
 ### Licenses
-- [Choose An Open Source License](https://choosealicense.com/)
+- :ballot_box_with_check: [Choose An Open Source License](https://choosealicense.com/)
 - [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
 
 ### Where To Look For Further Info
-- [freeCodeCamp Guide](https://guide.freecodecamp.org/)
-- [GeeksForGeeks](http://www.geeksforgeeks.org/)
-- [Dev.To](https://dev.to/)
-- [Stack Overflow](https://stackoverflow.com/)
+- :computer: [freeCodeCamp Guide](https://guide.freecodecamp.org/)
+- :page_facing_up: [GeeksForGeeks](http://www.geeksforgeeks.org/)
+- :page_facing_up: [Dev.To](https://dev.to/)
+- :speech_balloon: [Stackoverflow](https://stackoverflow.com/)
 
 ### Coding Practice Sites :zap:
 - :link: [CodeForces](http://codeforces.com/)

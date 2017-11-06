@@ -18,7 +18,7 @@ Your opinion on value of any resource may not match the opinion of curator.
 
 We :heart: simplicity.<br>
 We :heart: essential stuff.<br>
-This is why we strive to having less, but most valuable resources in the list.
+We strive to have a smaller list of more valuable resources, quality over quantity.
 </p></details>
 
 <details><summary>We :heart: widely applicable knowledge/skills. </summary><p>

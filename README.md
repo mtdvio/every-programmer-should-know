@@ -12,7 +12,7 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 *P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.  
 But knowing the stuff will help you become better! :muscle:*
 
-*P.P.S. [Contributions](CONTRIBUTING.md) are welcomed!*
+*P.P.S. [Contributions](CONTRIBUTING.md) are welcome!*
 
 ----
 
@@ -46,6 +46,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 - :floppy_disk: [Homoglyphs](https://github.com/codebox/homoglyph/)
 - :page_facing_up: [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
+- :movie_camera: [ASCII](https://www.youtube.com/watch?v=B1Sf1IhA0j4)
+- :movie_camera: [UTF-8](https://www.youtube.com/watch?v=vLBtrd9Ar28)
 
 ### Latency
 - :floppy_disk: [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
@@ -72,6 +74,8 @@ But knowing the stuff will help you become better! :muscle:*
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
 - :page_facing_up: [Rolling Your Own Crypto](http://loup-vaillant.fr/articles/rolling-your-own-crypto)
+- :page_facing_up: [Cryptographic Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
+- :page_facing_up: [An Open Letter to Developers Everywhere (About Cryptography)](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
 - :page_facing_up: [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - :page_facing_up: [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
@@ -124,10 +128,13 @@ But knowing the stuff will help you become better! :muscle:*
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 - :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - :page_facing_up: [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+- :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 
 
 ### UX/Usability
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+- :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+
 ### Remote Work
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
 - :zap: [NomadList](https://nomadlist.com/)
@@ -142,6 +149,11 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
 - :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
 - :page_facing_up: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754)
+- :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
+
+### Problem Solving
+- :book: [The Art and Craft of Problem Solving](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
+- :book: [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 
 ### Soft Skills
 - :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
@@ -152,6 +164,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
 - 📜 [What Every Programmer Should Know About Memory](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+- 📜 [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)

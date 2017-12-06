@@ -1,15 +1,15 @@
 # Every Programmer Should Know :thinking:
-A collection of (mostly) technical things every software developer should know.  
+A collection of (mostly) technical things every software developer should know.
 
 :point_up: *These are resources I can recommend to every programmer regardless of their skill level or tech stack*
 
-Highly opinionated :bomb:. Not backed by science.  
+Highly opinionated :bomb:. Not backed by science.
 Comes in no particular order :recycle:
 
 U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer!
 U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
 
-*P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.  
+*P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.
 But knowing the stuff will help you become better! :muscle:*
 
 *P.P.S. [Contributions](CONTRIBUTING.md) are welcome!*
@@ -21,8 +21,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
 ### Falsehoods
-- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
-  💊 Curated list of falsehoods programmers believe in.    
+- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)
+  💊 Curated list of falsehoods programmers believe in.
   Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
 
 ### Algorithms
@@ -103,9 +103,9 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 - :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 - :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
-- [Learn X in Y Minutes](https://learnxinyminutes.com/)  
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
   Learn the basics of a language in a highly condensed way.
-- [Hyperpolyglot](http://hyperpolyglot.org/)  
+- [Hyperpolyglot](http://hyperpolyglot.org/)
   Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
 - :page_facing_up: [Pomodoro for Programmers](http://www.metadevelopment.io/pomodoro-for-programmers/)
 

@@ -165,7 +165,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
 - 📜 [What Every Programmer Should Know About Memory](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
 - 📜 [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
-
+- :nerd_face: [Things Every Hacker Once Know](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/)
+- :japanese_goblin: [Want Be a Big Hacker ??Read Eric Raymond articles](http://www.catb.org/)
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 

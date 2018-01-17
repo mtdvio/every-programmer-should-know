@@ -135,6 +135,9 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 - :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
 
+### Open Source
+- :globe_with_meridians: [An Intro to Git and GitHub for Beginners](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
 ### Remote Work
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
 - :zap: [NomadList](https://nomadlist.com/)

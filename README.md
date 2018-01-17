@@ -186,6 +186,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
 - [Stack Overflow](https://stackoverflow.com/)
+- [Dzone](https://dzone.com/)
 
 ### Coding Practice Sites :zap:
 - :link: [CodeForces](http://codeforces.com/)

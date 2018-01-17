@@ -52,6 +52,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Latency
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+- :book: [Agner Fog's Optimization manuals](http://www.agner.org/optimize/#manuals)
 
 ### Time
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)

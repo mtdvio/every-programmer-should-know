@@ -55,6 +55,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Time
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
+- :page_facing_up: [The Long, Painful History of Time](http://naggum.no/lugm-time.html)
 
 ### Memory
 - :page_facing_up: [What every Programmer should know about memory](http://lwn.net/Articles/250967/)

@@ -203,5 +203,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
 - :link: [uCoder](ucoder.com.br)
-- :link: [The URI Online Judge](www.urionlinejudge.com.br)
 

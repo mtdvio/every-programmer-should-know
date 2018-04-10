@@ -108,7 +108,7 @@ But knowing the stuff will help you become better! :muscle:*
   Learn the basics of a language in a highly condensed way.
 - [Hyperpolyglot](http://hyperpolyglot.org/)  
   Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
-- :page_facing_up: [Pomodoro for Programmers](http://www.metadevelopment.io/pomodoro-for-programmers/)
+- :page_facing_up: [Pomodoro for Programmers](https://blog.metadevelopment.io/pomodoro-for-programmers/)
 
 ### Career
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)

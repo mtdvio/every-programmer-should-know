@@ -154,6 +154,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
 - :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
 - :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
+- :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
 
 ### Problem Solving
 - :book: [The Art and Craft of Problem Solving](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)

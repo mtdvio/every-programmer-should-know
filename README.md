@@ -55,6 +55,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Time
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
+- :movie_camera: [The Problem with Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
 
 ### Memory
 - :page_facing_up: [What every Programmer should know about memory](https://lwn.net/Articles/250967/)

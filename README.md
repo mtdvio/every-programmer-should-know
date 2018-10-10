@@ -178,6 +178,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Services :zap:
 - [Free For Dev](https://github.com/ripienaar/free-for-dev/blob/master/README.md)
 - [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
+- [Another list of Public APIs](https://github.com/toddmotto/public-apis)
 - [The Noun Project](https://thenounproject.com/)
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)

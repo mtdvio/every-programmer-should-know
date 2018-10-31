@@ -129,6 +129,9 @@ But knowing the stuff will help you become better! :muscle:*
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)
 
+### Coding Templates
+- [gitignore](https://www.gitignore.io/)
+
 ### Where To Look For Further Info
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)

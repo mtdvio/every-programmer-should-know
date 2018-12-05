@@ -80,6 +80,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
 - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
+- :page_facing_up: [Hashing, Encryption and Encoding](https://www.integralist.co.uk/posts/hashing-and-encryption/)
 
 ### SEO
 - :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)

@@ -143,6 +143,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :globe_with_meridians: [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 ### Remote Work
+- :globe_with_meridians: [Remotive.io: Startups hiring remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview?sle=true#gid=1279011369)
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
 - :zap: [NomadList](https://nomadlist.com/)
 - :book: [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)

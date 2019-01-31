@@ -134,6 +134,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 
+###  Fine-tune Your Resume 
+- :hammer: [CV Compiler](https://cvcompiler.com/)
 
 ### UX/Usability
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)

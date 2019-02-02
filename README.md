@@ -86,6 +86,11 @@ But knowing the stuff will help you become better! :muscle:*
 - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
 - :page_facing_up: [Hashing, Encryption and Encoding](https://www.integralist.co.uk/posts/hashing-and-encryption/)
 
+### UX/Usability
+- :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+- :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+
+
 ### SEO
 - :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)
 
@@ -99,6 +104,19 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
 - [System Design: A Primer](https://github.com/donnemartin/system-design-primer)
 - :page_facing_up: [How JavaScript works: part-1](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf), [2](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [3](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec), [4](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+
+### Engineering Philosophy
+- :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+- :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
+- :movie_camera: [#NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+- :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
+- :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
+- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
+- :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
+- :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
+- :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
+- :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
+
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
@@ -142,10 +160,6 @@ But knowing the stuff will help you become better! :muscle:*
 ###  Fine-tune Your Resume 
 - :hammer: [CV Compiler](https://cvcompiler.com/)
 
-### UX/Usability
-- :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
-- :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
-
 ### Open Source
 - :globe_with_meridians: [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
@@ -155,17 +169,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :zap: [NomadList](https://nomadlist.com/)
 - :book: [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
 - :house: [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
-
-### Engineering Philosophy
-- :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
-- :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
-- :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
-- :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
-- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
-- :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
-- :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
-- :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
-- :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
 
 ### Problem Solving
 - :book: [The Art and Craft of Problem Solving](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)

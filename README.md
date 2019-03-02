@@ -182,6 +182,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
+### Mental Health
+- [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)  
+  A curated list of awesome articles, websites and resources about mental health in the software industry.
+
 ### Papers on Programming
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)

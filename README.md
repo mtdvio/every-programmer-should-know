@@ -227,7 +227,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [TopCoder](https://www.topcoder.com/)
 - :link: [Codewars](https://codewars.com/)
 - :link: [Exercism](http://www.exercism.io/)
-- :link: [CodeFights](https://codefights.com/)
+- :link: [CodeSignal](https://codesignal.com/)
 - :link: [Project Euler](https://projecteuler.net/)
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [Firecode.io](https://www.firecode.io/)

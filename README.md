@@ -136,6 +136,7 @@ But knowing the stuff will help you become better! :muscle:*
   Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
 - :page_facing_up: [Pomodoro for Programmers](https://blog.metadevelopment.io/pomodoro-for-programmers/)
 - :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
+- :globe_with_meridians: [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ### Career
 - :moneybag: [Levels FYI](https://www.levels.fyi)  

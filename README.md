@@ -210,11 +210,13 @@ But knowing the stuff will help you become better! :muscle:*
 - [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
 
 ### Where To Look For Further Info
-- [freeCodeCamp Guide](https://guide.freecodecamp.org/)
-- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [Dev Docs](https://devdocs.io/)
 - [Dev.To](https://dev.to/)
-- [Stack Overflow](https://stackoverflow.com/)
 - [Dzone](https://dzone.com/)
+- [freeCodeCamp Guide](https://guide.freecodecamp.org/)
+- [GeeksForGeeks](http://www.geeksforgeeks.org/)
+- [Stackoverflow](https://stackoverflow.com/)
+
 
 ### Coding Practice Sites :zap:
 - :link: [CodeForces](http://codeforces.com/)

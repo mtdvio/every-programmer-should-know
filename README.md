@@ -31,7 +31,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Sorting Algorithms](https://visualgo.net/en/sorting)
 
 ### Data Structures
-- :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
+- :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)
 
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)

@@ -160,6 +160,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
+- :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
 
 ###  Fine-tune Your Resume 
 - :hammer: [CV Compiler](https://cvcompiler.com/)

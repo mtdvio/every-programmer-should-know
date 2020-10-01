@@ -29,6 +29,9 @@ But knowing the stuff will help you become better! :muscle:*
   💊 Curated list of falsehoods programmers believe in.
   Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
 
+### Learning How to Learn
+- [Learning How to Learn - Coursera](https://www.coursera.org/learn/learning-how-to-learn)
+
 ### Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)

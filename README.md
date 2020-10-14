@@ -127,7 +127,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
-- :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+- :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 - :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 - :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)

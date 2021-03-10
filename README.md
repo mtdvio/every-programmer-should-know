@@ -70,7 +70,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :scroll: [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
 - :page_facing_up: [There is No Now](https://queue.acm.org/detail.cfm?id=2745385)
 - :page_facing_up: [Jepsen: how different databases behave under partition](https://aphyr.com/tags/jepsen)
-- :scroll: [Fallacies of Distributed Computing Explained](https://www.rgoarchitects.com/Files/fallacies.pdf)
+- :scroll: [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)

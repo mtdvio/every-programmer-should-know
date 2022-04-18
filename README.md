@@ -119,6 +119,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
 - :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
 - :movie_camera: [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+- :page_facing_up: [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
 
 ### Practices

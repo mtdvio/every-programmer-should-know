@@ -92,7 +92,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 
 ### SEO
-- :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)
+- :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/blog/what-every-programmer-should-know-about-seo/)
 
 ### Architecture
 - :scroll: [A Field Guide to Boxology](https://web.cs.wpi.edu/~cs562/s98/pdf/Boxology.pdf)

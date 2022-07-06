@@ -251,3 +251,5 @@ But knowing the stuff will help you become better! :muscle:*
 - [Untrusted](https://alexnisnevich.github.io/untrusted/)
 - [CSS Diner](https://flukeout.github.io/)
 - [CodingGame](https://www.codingame.com/start/)
+- [Regex crossword](https://regexcrossword.com/)
+

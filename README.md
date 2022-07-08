@@ -247,4 +247,3 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [InterviewCake](https://www.interviewcake.com/)
 - :link: [At Coder](https://atcoder.jp/)
 - :link: [Codility](https://www.codility.com/)
-- :link: [Spoj](https://www.spoj.com/)

@@ -1,4 +1,4 @@
-> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career! 
+> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career!
 
 ----
 
@@ -140,8 +140,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
 ### Career
-- :moneybag: [Levels FYI](https://www.levels.fyi)  
-  Salary stats for various tech companies. Better than Glassdoor. 
+- :moneybag: [Levels FYI](https://www.levels.fyi)
+  Salary stats for various tech companies. Better than Glassdoor.
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 - :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
@@ -164,7 +164,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 - :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
 
-###  Fine-tune Your Resume 
+###  Fine-tune Your Resume
 - :hammer: [CV Compiler](https://cvcompiler.com/)
 
 ### Open Source
@@ -187,7 +187,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
 ### Mental Health
-- [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)  
+- [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)
   A curated list of awesome articles, websites and resources about mental health in the software industry.
 
 ### Papers on Programming
@@ -222,6 +222,8 @@ But knowing the stuff will help you become better! :muscle:*
 - [Dzone](https://dzone.com/)
 
 ### Coding Practice Sites :zap:
+- :link: [Code Basics](https://code-basics.com/)
+- :link: [Codebattle](https://codebattle.hexlet.io/)
 - :link: [CodeForces](http://codeforces.com/)
 - :link: [CodeChef](https://www.codechef.com)
 - :link: [Coderbyte](https://coderbyte.com/)

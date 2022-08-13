@@ -16,6 +16,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
+- :book: [Computer Science Distilled](https://www.goodreads.com/book/show/34189798-computer-science-distilled)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [Sorting Algorithms](https://visualgo.net/en/sorting)
 

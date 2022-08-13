@@ -46,6 +46,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [What every Programmer should know about memory](http://lwn.net/Articles/250967/)
 
 ### Distributed Systems
+- :book: [Understanding Distributed Systems](https://www.goodreads.com/book/show/56977420-understanding-distributed-systems)
 - :book: [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 - :scroll: [Designs, Lessons and Advice from Building Large Distributed Systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 - :scroll: [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)

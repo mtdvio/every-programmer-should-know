@@ -247,3 +247,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [InterviewCake](https://www.interviewcake.com/)
 - :link: [At Coder](https://atcoder.jp/)
 - :link: [Codility](https://www.codility.com/)
+- :link: [Toph](https://toph.co/)
+- :link: [beecrowd](https://www.beecrowd.com.br/)
+- :link: [LinkghtOJ](https://lightoj.com/)

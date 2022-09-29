@@ -33,6 +33,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Introduction to Algorithms - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 ### Data Structures
 - :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)

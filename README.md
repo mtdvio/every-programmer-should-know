@@ -196,7 +196,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Papers on Programming
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
-- 📜 [What Every Programmer Should Know About Memory](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+- 📜 [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
 - 📜 [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 
 ### Free Books on Programming

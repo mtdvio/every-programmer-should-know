@@ -38,6 +38,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)
 - [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
+- [Application of Data Structure](https://www.scaler.com/topics/application-of-data-structure/)
 - [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
 ### Numbers

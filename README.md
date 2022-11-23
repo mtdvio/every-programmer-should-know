@@ -143,7 +143,7 @@ But knowing the stuff will help you become better! :muscle:*
   Learn the basics of a language in a highly condensed way.
 - [Hyperpolyglot](http://hyperpolyglot.org/)
   Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
-- :page_facing_up: [Pomodoro for Programmers](https://blog.metadevelopment.io/pomodoro-for-programmers/)
+- :page_facing_up: [Pomodoro for Programmers](https://medium.com/@mr_mig_by/pomodoro-for-programmers-d6568dd1e6fc)
 - :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
 ### Career

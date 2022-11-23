@@ -33,6 +33,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
+- :book: [Introduction to Algorithms](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms?from_search=true&from_srp=true&qid=8mUglV9uZ1&rank=1)
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Data Structures

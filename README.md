@@ -127,10 +127,12 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
 - :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
 - :movie_camera: [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+- :page_facing_up: [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
+- :book: [The Art of Readable Code: Simple and Practical Techniques for Writing Better Code](https://www.goodreads.com/ru/book/show/8677004-the-art-of-readable-code)
 - :book: [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
 - :book: [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 - :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
@@ -171,6 +173,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 - :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
+- :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
+- :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY&t=403s)
 
 ###  Fine-tune Your Resume 
 - :hammer: [CV Compiler](https://cvcompiler.com/)

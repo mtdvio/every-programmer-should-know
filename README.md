@@ -36,6 +36,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - :book: [Introduction to Algorithms](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms?from_search=true&from_srp=true&qid=8mUglV9uZ1&rank=1)
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
 ### Data Structures
 - :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)
@@ -202,6 +203,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
 - 📜 [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
 - 📜 [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
+- :newspaper: [Arxiv](https://arxiv.org/)
+- :newspaper: [Sci-hub](https://sci-hub.se/)
 
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
@@ -251,3 +254,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [InterviewCake](https://www.interviewcake.com/)
 - :link: [At Coder](https://atcoder.jp/)
 - :link: [Codility](https://www.codility.com/)
+- :link: [ICPC Problem Archive](https://icpc.kattis.com/)

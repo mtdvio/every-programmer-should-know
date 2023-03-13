@@ -99,10 +99,9 @@ But knowing the stuff will help you become better! :muscle:*
 ### SEO
 - :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/blog/what-every-programmer-should-know-about-seo)
 
-### Architecture
 - :scroll: [A Field Guide to Boxology](https://web.cs.wpi.edu/~cs562/s98/pdf/Boxology.pdf)
 - :scroll: [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf?raw=true)
-- :scroll: [No Silver Bullet — Essence and Accidents of Software Engineering](http://www.cs.unc.edu/techreports/86-020.pdf)
+- :scroll: [No Silver Bullet — Essence and Accidents of Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 - :movie_camera: [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - :movie_camera: [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - :book: [Practical Object Oriented Design in Ruby](https://www.poodr.com/)

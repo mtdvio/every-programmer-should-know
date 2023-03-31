@@ -77,9 +77,13 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Jepsen: how different databases behave under partition](https://aphyr.com/tags/jepsen)
 - :scroll: [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 
+### Machine Learning
+- :school: [Andrew NG Machine Learning Specification Class](https://www.coursera.org/specializations/machine-learning-introduction)
+
 ### RegExp
-- [RegexHQ](https://github.com/regexhq)
-- [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+- :link: [RegexHQ](https://github.com/regexhq)
+- :link: [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+- :link: [Regex Crossword](https://regexcrossword.com/)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)

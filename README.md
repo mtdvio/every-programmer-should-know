@@ -175,6 +175,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
 - :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
 - :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY&t=403s)
+- :page_facing_up: [DSA Roadmap: Complete Learning Guide](https://www.scaler.com/blog/dsa-roadmap/)
+- :page_facing_up: [15 Web Developer Skills](https://www.scaler.com/blog/web-developer-skills/)
 
 ###  Fine-tune Your Resume 
 - :hammer: [CV Compiler](https://cvcompiler.com/)

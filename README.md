@@ -228,6 +228,9 @@ But knowing the stuff will help you become better! :muscle:*
 - [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
 - [How open source licenses work and how to add them to your projects](https://medium.freecodecamp.org/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94)
 
+### Coding Templates
+- [gitignore](https://www.gitignore.io/)
+
 ### Where To Look For Further Info
 - [freeCodeCamp Guide](https://guide.freecodecamp.org/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)

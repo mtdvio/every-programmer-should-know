@@ -87,8 +87,9 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Cryptographic Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
 - :page_facing_up: [An Open Letter to Developers Everywhere (About Cryptography)](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
-- [OWASP Top 10](https://owasp.org/www-project-top-ten)
-- [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
+- :page_facing_up: [OWASP Top 10](https://owasp.org/www-project-top-ten) - The "gold standard" for web application vulnerabilities.
+- :page_facing_up: [Portswigger Academy](https://portswigger.net) - Practical Labs for learning about web application security.
+- :page_facing_up: [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
 - :page_facing_up: [Hashing, Encryption and Encoding](https://www.integralist.co.uk/posts/hashing-and-encryption/)
 
 ### UX/Usability

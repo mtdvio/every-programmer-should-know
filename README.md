@@ -1,4 +1,4 @@
-> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career! 
+> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career!
 
 ----
 
@@ -150,8 +150,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
 ### Career
-- :moneybag: [Levels FYI](https://www.levels.fyi)  
-  Salary stats for various tech companies. Better than Glassdoor. 
+- :moneybag: [Levels FYI](https://www.levels.fyi)
+  Salary stats for various tech companies. Better than Glassdoor.
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 - :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
@@ -176,7 +176,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
 - :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY&t=403s)
 
-###  Fine-tune Your Resume 
+###  Fine-tune Your Resume
 - :hammer: [CV Compiler](https://cvcompiler.com/)
 
 ### Open Source
@@ -199,7 +199,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
 ### Mental Health
-- [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)  
+- [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)
   A curated list of awesome articles, websites and resources about mental health in the software industry.
 
 ### Papers on Programming
@@ -260,3 +260,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Codility](https://www.codility.com/)
 - :link: [ICPC Problem Archive](https://icpc.kattis.com/)
 - :link: [Codemia](https://codemia.io/)
+- :link: [Codebattle](https://codebattle.hexlet.io/)

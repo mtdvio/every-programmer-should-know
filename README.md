@@ -260,3 +260,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Codility](https://www.codility.com/)
 - :link: [ICPC Problem Archive](https://icpc.kattis.com/)
 - :link: [Codemia](https://codemia.io/)
+- :link: [bugfree.ai](https://bugfree.ai/?utm_source=git-every-programmer-should-know)

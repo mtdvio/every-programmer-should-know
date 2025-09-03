@@ -1,4 +1,16 @@
-> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career! 
+<div align="center" markdown="1">
+   <sup>Special thanks to:</sup>
+   <br>
+   <br>
+   <a href="https://tuple.app/every-programmer-should-know">
+    <img width="400" alt="Tuple's sponsorship image" src="https://github.com/user-attachments/assets/dc223735-2060-476e-9f76-0b225e03ce1f" />
+   </a>
+
+### [Tuple, the premier screen sharing app for developers](https://tuple.app/every-programmer-should-know)
+
+[Available for MacOS & Windows](https://tuple.app/every-programmer-should-know)<br>
+
+</div>
 
 ----
 

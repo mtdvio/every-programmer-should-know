@@ -272,4 +272,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Codility](https://www.codility.com/)
 - :link: [ICPC Problem Archive](https://icpc.kattis.com/)
 - :link: [Codemia](https://codemia.io/)
-- :link: [Codebuttle](https://codebattle.hexlet.io/)
+- :link: [Codebattle](https://codebattle.hexlet.io/)

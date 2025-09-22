@@ -1,4 +1,23 @@
-> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career! 
+<div align="center" markdown="1">
+   <sup>Special thanks to:</sup>
+   <br>
+   <br>
+   <a href="https://tuple.app/every-programmer-should-know">
+    <img width="400" alt="Tuple's sponsorship image" src="https://github.com/user-attachments/assets/dc223735-2060-476e-9f76-0b225e03ce1f" />
+   </a>
+
+### [Tuple, the premier screen sharing app for developers](https://tuple.app/every-programmer-should-know)
+
+[Available for MacOS & Windows](https://tuple.app/every-programmer-should-know)<br>
+
+</div>
+
+----
+<div align="center" markdown="1">
+  Want to become a Senior Engineer sooner?  
+
+  [Join a waitlist for repo author's course](https://maven.com/top-engineer/fast-track-to-senior?utm_source=github&utm_campaign=autumn_repo_bump)
+</div>
 
 ----
 
@@ -260,19 +279,28 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Codility](https://www.codility.com/)
 - :link: [ICPC Problem Archive](https://icpc.kattis.com/)
 - :link: [Codemia](https://codemia.io/)
+- :link: [Codebattle](https://codebattle.hexlet.io/)
 
-- ## Platform Engineering
+### Platform Engineering
 
-A modern discipline that evolved from DevOps and SRE principles, focused on improving developer experience and productivity by building and managing self-service tools and workflows, often through an Internal Developer Platform (IDP). The goal is to reduce cognitive load on developers and streamline the path to production.
+> A modern discipline that evolved from DevOps and SRE principles, focused on improving developer experience and productivity by building and managing self-service tools and workflows, often through an Internal Developer Platform (IDP). The goal is to reduce cognitive load on developers and streamline the path to production.
 
-* **What is Platform Engineering?**
-    * [Microsoft Learn: What is platform engineering?](https://learn.microsoft.com/en-us/platform-engineering/what-is-platform-engineering) - A comprehensive overview of the practice, its goals, and core capabilities.
-    * [Atlassian: What is Platform Engineering?](https://www.atlassian.com/developer-experience/platform-engineering) - A great explanation of the roles and responsibilities of a platform team.
+- **What is Platform Engineering?**
+    * [Microsoft Learn: What is platform engineering?](https://learn.microsoft.com/en-us/platform-engineering/what-is-platform-engineering)  
+    A comprehensive overview of the practice, its goals, and core capabilities.
+    * [Atlassian: What is Platform Engineering?](https://www.atlassian.com/developer-experience/platform-engineering)  
+    A great explanation of the roles and responsibilities of a platform team.
 
-* **Internal Developer Platform (IDP)**
-    * [internaldeveloperplatform.org: What is an IDP?](https://internaldeveloperplatform.org/what-is-an-internal-developer-platform/) - A foundational resource explaining the concept of an IDP as the core product of a platform team.
-    * [Atlassian: Internal Developer Platform Guide](https://www.atlassian.com/developer-experience/internal-developer-platform) - A deep dive into the benefits and best practices for building an IDP.
+- **Internal Developer Platform (IDP)**
+    * [internaldeveloperplatform.org: What is an IDP?](https://internaldeveloperplatform.org/what-is-an-internal-developer-platform/)  
+    A foundational resource explaining the concept of an IDP as the core product of a platform team.
+    * [Atlassian: Internal Developer Platform Guide](https://www.atlassian.com/developer-experience/internal-developer-platform)  
+    A deep dive into the benefits and best practices for building an IDP.
 
-* **Golden Paths (Paved Roads)**
-    * [Spotify Engineering: How we use Golden Paths to solve fragmentation](https://backstage.spotify.com/learn/onboarding-software-to-backstage/setting-up-software-templates/11-spotify-templates/) - The original concept from Spotify, explaining how they use "opinionated and supported paths" to guide developers.
-    * [Red Hat: What is a Golden Path for software development?](https://www.redhat.com/en/topics/devops/golden-paths) - A clear article on how Golden Paths provide templates and standardized workflows to increase efficiency.
+- **Golden Paths (Paved Roads)**
+    * [Spotify Engineering: How we use Golden Paths to solve fragmentation](https://backstage.spotify.com/learn/onboarding-software-to-backstage/setting-up-software-templates/11-spotify-templates/)  
+    The original concept from Spotify, explaining how they use "opinionated and supported paths" to guide developers.
+    * [Red Hat: What is a Golden Path for software development?](https://www.redhat.com/en/topics/devops/golden-paths)  
+    * A clear article on how Golden Paths provide templates and standardized workflows to increase efficiency.
+
+

@@ -13,6 +13,13 @@
 </div>
 
 ----
+<div align="center" markdown="1">
+  Want to become a Senior Engineer sooner?  
+
+  [Join a waitlist for repo author's course](https://maven.com/top-engineer/fast-track-to-senior?utm_source=github&utm_campaign=autumn_repo_bump)
+</div>
+
+----
 
 # Every Programmer Should Know :thinking:
 A collection of (mostly) technical things every software developer should know.

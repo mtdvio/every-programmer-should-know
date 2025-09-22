@@ -279,6 +279,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Codility](https://www.codility.com/)
 - :link: [ICPC Problem Archive](https://icpc.kattis.com/)
 - :link: [Codemia](https://codemia.io/)
+- :link: [LabEx](https://labex.io/)
 - :link: [Codebattle](https://codebattle.hexlet.io/)
 
 ### Platform Engineering
@@ -302,5 +303,4 @@ But knowing the stuff will help you become better! :muscle:*
     The original concept from Spotify, explaining how they use "opinionated and supported paths" to guide developers.
     * [Red Hat: What is a Golden Path for software development?](https://www.redhat.com/en/topics/devops/golden-paths)  
     * A clear article on how Golden Paths provide templates and standardized workflows to increase efficiency.
-
 

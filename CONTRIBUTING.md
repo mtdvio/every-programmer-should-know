@@ -74,7 +74,7 @@ Adding just a single item per pull request makes it much easier for everyone inv
 It is just easier to discuss and decide on a resource within a Pull Request.
 </p></details>
 
-<details><summary>Use consistent set of resource type emoji</summary><p>
+<details><summary>Use consistent set of resource type emoji.</summary><p>
 
 🎥 - Video/Talk
 📖 - Book

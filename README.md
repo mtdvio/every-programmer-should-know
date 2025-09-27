@@ -62,6 +62,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
 - [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+-  📖 [Hello Algo](https://www.hello-algo.com/en/chapter_preface/about_the_book/)
 
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)

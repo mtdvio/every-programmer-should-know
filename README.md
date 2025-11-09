@@ -43,6 +43,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 - :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 - :page_facing_up: [Computer Science Roadmap](https://roadmap.sh/computer-science)
+- :page_facing_up: [Community-driven Roadmaps for Developers](https://github.com/kamranahmedse/developer-roadmap)
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)
@@ -58,11 +59,11 @@ But knowing the stuff will help you become better! :muscle:*
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
 ### Data Structures
+-  📖 [Hello Algo](https://www.hello-algo.com/en/chapter_preface/about_the_book/)
 - :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)
 - [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
-- [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
--  📖 [Hello Algo](https://www.hello-algo.com/en/chapter_preface/about_the_book/)
+- [Mathematics for Computer Science - Eric Lehman](https://people.csail.mit.edu/meyer/mcs.pdf)
 
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
@@ -97,9 +98,13 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Jepsen: how different databases behave under partition](https://aphyr.com/tags/jepsen)
 - :scroll: [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 
+### Machine Learning
+- :school: [Andrew NG Machine Learning Specification Class](https://www.coursera.org/specializations/machine-learning-introduction)
+
 ### RegExp
-- [RegexHQ](https://github.com/regexhq)
-- [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+- :link: [RegexHQ](https://github.com/regexhq)
+- :link: [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+- :link: [Regex Crossword](https://regexcrossword.com/)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
@@ -114,7 +119,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### UX/Usability
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
-- :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+- :movie_camera: [Inventing on Principle](https://vimeo.com/906418692)
 
 
 ### SEO
@@ -129,7 +134,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Practical Object Oriented Design in Ruby](https://www.poodr.com/)
 - :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
 - [System Design: A Primer](https://github.com/donnemartin/system-design-primer)
-- :page_facing_up: [How JavaScript works: part-1](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf), [2](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [3](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec), [4](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+- :page_facing_up: [How JavaScript works: part-1](https://medium.com/sessionstack-blog/how-does-javascript-actually-work-part-1-b0bacc073cf), [2](https://medium.com/sessionstack-blog/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [3](https://medium.com/sessionstack-blog/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec), [4](https://medium.com/sessionstack-blog/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 - :movie_camera: [Entity-Component-System Architecture with Unity by example](https://www.youtube.com/watch?v=lNTaC-JWmdI&t=166s&list=PLZlJZzHmx31XvgT96DfbXQ4IMb1ryztbp&index=33)
 
 ### Code Design
@@ -186,7 +191,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
 - :page_facing_up: [How To Get a Tech Job Abroad Faster](https://relocate.me/blog/job-relocation/landing-a-tech-job-abroad-7-simple-tips/#more-514)
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
-- :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
+- 📈 [TL;DR; Stock Options](https://web.archive.org/web/20190304234515/https://tldroptions.io/)
+    - [Discussion on HN #1](https://news.ycombinator.com/item?id=14463260)
+    - [Discussion on HN #2](https://news.ycombinator.com/item?id=19301570)
+- 📄 [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
@@ -195,7 +203,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 - :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
 - :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
-- :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY&t=403s)
+- :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://wwwtube.com/watch?v=bmSAYlu0NcY&t=403s)
 
 ###  Fine-tune Your Resume 
 - :hammer: [CV Compiler](https://cvcompiler.com/)
@@ -283,6 +291,14 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Codemia](https://codemia.io/)
 - :link: [LabEx](https://labex.io/)
 - :link: [Codebattle](https://codebattle.hexlet.io/)
+
+### Learning through entertainment:
+- [Robocode](https://robocode.sourceforge.io/)
+- [Elevatorsaga](https://play.elevatorsaga.com/)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/)
+- [CSS Diner](https://flukeout.github.io/)
+- [CodingGame](https://www.codingame.com/start/)
+
 
 ### Platform Engineering
 

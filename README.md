@@ -96,9 +96,13 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Jepsen: how different databases behave under partition](https://aphyr.com/tags/jepsen)
 - :scroll: [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 
+### Machine Learning
+- :school: [Andrew NG Machine Learning Specification Class](https://www.coursera.org/specializations/machine-learning-introduction)
+
 ### RegExp
-- [RegexHQ](https://github.com/regexhq)
-- [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+- :link: [RegexHQ](https://github.com/regexhq)
+- :link: [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+- :link: [Regex Crossword](https://regexcrossword.com/)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
@@ -197,7 +201,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 - :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
 - :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
-- :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY&t=403s)
+- :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://wwwtube.com/watch?v=bmSAYlu0NcY&t=403s)
 
 ###  Fine-tune Your Resume 
 - :hammer: [CV Compiler](https://cvcompiler.com/)
@@ -292,7 +296,6 @@ But knowing the stuff will help you become better! :muscle:*
 - [Untrusted](https://alexnisnevich.github.io/untrusted/)
 - [CSS Diner](https://flukeout.github.io/)
 - [CodingGame](https://www.codingame.com/start/)
-- [Regex crossword](https://regexcrossword.com/)
 
 
 ### Platform Engineering

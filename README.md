@@ -1,4 +1,23 @@
-> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career! 
+<div align="center" markdown="1">
+   <sup>Special thanks to:</sup>
+   <br>
+   <br>
+   <a href="https://tuple.app/every-programmer-should-know">
+    <img width="400" alt="Tuple's sponsorship image" src="https://github.com/user-attachments/assets/dc223735-2060-476e-9f76-0b225e03ce1f" />
+   </a>
+
+### [Tuple, the premier screen sharing app for developers](https://tuple.app/every-programmer-should-know)
+
+[Available for MacOS & Windows](https://tuple.app/every-programmer-should-know)<br>
+
+</div>
+
+----
+<div align="center" markdown="1">
+  Want to become a Senior Engineer sooner?  
+
+  [Join a waitlist for repo author's course](https://maven.com/top-engineer/fast-track-to-senior?utm_source=github&utm_campaign=autumn_repo_bump)
+</div>
 
 ----
 
@@ -23,6 +42,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Introduction
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 - :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+- :page_facing_up: [Computer Science Roadmap](https://roadmap.sh/computer-science)
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)
@@ -31,14 +51,17 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
+- :book: [Computer Science Distilled](https://www.goodreads.com/book/show/34189798-computer-science-distilled)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
+- :book: [Introduction to Algorithms](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms?from_search=true&from_srp=true&qid=8mUglV9uZ1&rank=1)
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
 ### Data Structures
 - :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)
 - [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
-- [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+- [Mathematics for Computer Science - Eric Lehman](https://people.csail.mit.edu/meyer/mcs.pdf)
 
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
@@ -65,6 +88,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [What every Programmer should know about memory](https://lwn.net/Articles/250967/)
 
 ### Distributed Systems
+- :book: [Understanding Distributed Systems](https://www.goodreads.com/book/show/56977420-understanding-distributed-systems)
 - :book: [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 - :scroll: [Designs, Lessons and Advice from Building Large Distributed Systems](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 - :scroll: [Time, Clocks and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf)
@@ -82,22 +106,23 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Cryptographic Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
 - :page_facing_up: [An Open Letter to Developers Everywhere (About Cryptography)](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
-- [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
-- [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
+- :page_facing_up: [OWASP Top 10](https://owasp.org/www-project-top-ten) - The "gold standard" for web application vulnerabilities.
+- :page_facing_up: [Portswigger Academy](https://portswigger.net) - Practical Labs for learning about web application security.
+- :page_facing_up: [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
 - :page_facing_up: [Hashing, Encryption and Encoding](https://www.integralist.co.uk/posts/hashing-and-encryption/)
 
 ### UX/Usability
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
-- :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+- :movie_camera: [Inventing on Principle](https://vimeo.com/906418692)
 
 
 ### SEO
-- :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)
+- :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/blog/what-every-programmer-should-know-about-seo)
 
 ### Architecture
 - :scroll: [A Field Guide to Boxology](https://web.cs.wpi.edu/~cs562/s98/pdf/Boxology.pdf)
 - :scroll: [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf?raw=true)
-- :scroll: [No Silver Bullet — Essence and Accidents of Software Engineering](https://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf)
+- :scroll: [No Silver Bullet — Essence and Accidents of Software Engineering](http://www.cs.unc.edu/techreports/86-020.pdf)
 - :movie_camera: [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - :movie_camera: [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - :book: [Practical Object Oriented Design in Ruby](https://www.poodr.com/)
@@ -105,6 +130,9 @@ But knowing the stuff will help you become better! :muscle:*
 - [System Design: A Primer](https://github.com/donnemartin/system-design-primer)
 - :page_facing_up: [How JavaScript works: part-1](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf), [2](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [3](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec), [4](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 - :movie_camera: [Entity-Component-System Architecture with Unity by example](https://www.youtube.com/watch?v=lNTaC-JWmdI&t=166s&list=PLZlJZzHmx31XvgT96DfbXQ4IMb1ryztbp&index=33)
+
+### Code Design
+- :page_facing_up: [Programming Principles Wiki](http://www.principles-wiki.net/)
 
 ### Engineering Philosophy
 - :movie_camera: [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc)
@@ -119,16 +147,18 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
 - :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
 - :movie_camera: [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+- :page_facing_up: [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
+- :book: [The Art of Readable Code: Simple and Practical Techniques for Writing Better Code](https://www.goodreads.com/ru/book/show/8677004-the-art-of-readable-code)
 - :book: [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
 - :book: [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 - :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
-- :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+- :book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
 - :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 - :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 - :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
@@ -136,7 +166,7 @@ But knowing the stuff will help you become better! :muscle:*
   Learn the basics of a language in a highly condensed way.
 - [Hyperpolyglot](http://hyperpolyglot.org/)
   Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
-- :page_facing_up: [Pomodoro for Programmers](https://blog.metadevelopment.io/pomodoro-for-programmers/)
+- :page_facing_up: [Pomodoro for Programmers](https://medium.com/@mr_mig_by/pomodoro-for-programmers-d6568dd1e6fc)
 - :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
 ### Career
@@ -151,11 +181,14 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [The Complete Software Developer's Career Guide](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
 - :book: [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.goodreads.com/book/show/29895093-programming-beyond-practices)
 - [A list of European Investors](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
-- :page_facing_up: [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+- :page_facing_up: [Ten Rules for Negotiating a Job Offer](https://medium.com/free-code-camp/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
 - :page_facing_up: [How To Get a Tech Job Abroad Faster](https://relocate.me/blog/job-relocation/landing-a-tech-job-abroad-7-simple-tips/#more-514)
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
-- :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
+- 📈 [TL;DR; Stock Options](https://web.archive.org/web/20190304234515/https://tldroptions.io/)
+    - [Discussion on HN #1](https://news.ycombinator.com/item?id=14463260)
+    - [Discussion on HN #2](https://news.ycombinator.com/item?id=19301570)
+- 📄 [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
@@ -163,6 +196,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 - :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
+- :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
+- :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY&t=403s)
 
 ###  Fine-tune Your Resume 
 - :hammer: [CV Compiler](https://cvcompiler.com/)
@@ -193,8 +228,10 @@ But knowing the stuff will help you become better! :muscle:*
 ### Papers on Programming
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
-- 📜 [What Every Programmer Should Know About Memory](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+- 📜 [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
 - 📜 [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
+- :newspaper: [Arxiv](https://arxiv.org/)
+- :newspaper: [Sci-hub](https://sci-hub.se/)
 
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
@@ -244,6 +281,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [InterviewCake](https://www.interviewcake.com/)
 - :link: [At Coder](https://atcoder.jp/)
 - :link: [Codility](https://www.codility.com/)
+- :link: [ICPC Problem Archive](https://icpc.kattis.com/)
+- :link: [Codemia](https://codemia.io/)
+- :link: [LabEx](https://labex.io/)
+- :link: [Codebattle](https://codebattle.hexlet.io/)
 
 ### Learning through entertainment:
 - [Robocode](https://robocode.sourceforge.io/)
@@ -252,4 +293,27 @@ But knowing the stuff will help you become better! :muscle:*
 - [CSS Diner](https://flukeout.github.io/)
 - [CodingGame](https://www.codingame.com/start/)
 - [Regex crossword](https://regexcrossword.com/)
+
+
+### Platform Engineering
+
+> A modern discipline that evolved from DevOps and SRE principles, focused on improving developer experience and productivity by building and managing self-service tools and workflows, often through an Internal Developer Platform (IDP). The goal is to reduce cognitive load on developers and streamline the path to production.
+
+- **What is Platform Engineering?**
+    * [Microsoft Learn: What is platform engineering?](https://learn.microsoft.com/en-us/platform-engineering/what-is-platform-engineering)  
+    A comprehensive overview of the practice, its goals, and core capabilities.
+    * [Atlassian: What is Platform Engineering?](https://www.atlassian.com/developer-experience/platform-engineering)  
+    A great explanation of the roles and responsibilities of a platform team.
+
+- **Internal Developer Platform (IDP)**
+    * [internaldeveloperplatform.org: What is an IDP?](https://internaldeveloperplatform.org/what-is-an-internal-developer-platform/)  
+    A foundational resource explaining the concept of an IDP as the core product of a platform team.
+    * [Atlassian: Internal Developer Platform Guide](https://www.atlassian.com/developer-experience/internal-developer-platform)  
+    A deep dive into the benefits and best practices for building an IDP.
+
+- **Golden Paths (Paved Roads)**
+    * [Spotify Engineering: How we use Golden Paths to solve fragmentation](https://backstage.spotify.com/learn/onboarding-software-to-backstage/setting-up-software-templates/11-spotify-templates/)  
+    The original concept from Spotify, explaining how they use "opinionated and supported paths" to guide developers.
+    * [Red Hat: What is a Golden Path for software development?](https://www.redhat.com/en/topics/devops/golden-paths)  
+    * A clear article on how Golden Paths provide templates and standardized workflows to increase efficiency.
 

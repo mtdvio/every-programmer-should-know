@@ -59,6 +59,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
 ### Data Structures
+-  📖 [Hello Algo](https://www.hello-algo.com/en/chapter_preface/about_the_book/)
 - :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)
 - [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)

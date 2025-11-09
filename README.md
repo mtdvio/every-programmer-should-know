@@ -1,4 +1,23 @@
-> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career! 
+<div align="center" markdown="1">
+   <sup>Special thanks to:</sup>
+   <br>
+   <br>
+   <a href="https://tuple.app/every-programmer-should-know">
+    <img width="400" alt="Tuple's sponsorship image" src="https://github.com/user-attachments/assets/dc223735-2060-476e-9f76-0b225e03ce1f" />
+   </a>
+
+### [Tuple, the premier screen sharing app for developers](https://tuple.app/every-programmer-should-know)
+
+[Available for MacOS & Windows](https://tuple.app/every-programmer-should-know)<br>
+
+</div>
+
+----
+<div align="center" markdown="1">
+  Want to become a Senior Engineer sooner?  
+
+  [Join a waitlist for repo author's course](https://maven.com/top-engineer/fast-track-to-senior?utm_source=github&utm_campaign=autumn_repo_bump)
+</div>
 
 ----
 
@@ -42,7 +61,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)
 - [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
-- [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+- [Mathematics for Computer Science - Eric Lehman](https://people.csail.mit.edu/meyer/mcs.pdf)
 
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
@@ -77,9 +96,13 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Jepsen: how different databases behave under partition](https://aphyr.com/tags/jepsen)
 - :scroll: [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 
+### Machine Learning
+- :school: [Andrew NG Machine Learning Specification Class](https://www.coursera.org/specializations/machine-learning-introduction)
+
 ### RegExp
-- [RegexHQ](https://github.com/regexhq)
-- [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+- :link: [RegexHQ](https://github.com/regexhq)
+- :link: [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+- :link: [Regex Crossword](https://regexcrossword.com/)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
@@ -87,13 +110,14 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Cryptographic Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
 - :page_facing_up: [An Open Letter to Developers Everywhere (About Cryptography)](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
-- [OWASP Top 10](https://owasp.org/www-project-top-ten)
-- [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
+- :page_facing_up: [OWASP Top 10](https://owasp.org/www-project-top-ten) - The "gold standard" for web application vulnerabilities.
+- :page_facing_up: [Portswigger Academy](https://portswigger.net) - Practical Labs for learning about web application security.
+- :page_facing_up: [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
 - :page_facing_up: [Hashing, Encryption and Encoding](https://www.integralist.co.uk/posts/hashing-and-encryption/)
 
 ### UX/Usability
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
-- :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+- :movie_camera: [Inventing on Principle](https://vimeo.com/906418692)
 
 
 ### SEO
@@ -165,7 +189,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
 - :page_facing_up: [How To Get a Tech Job Abroad Faster](https://relocate.me/blog/job-relocation/landing-a-tech-job-abroad-7-simple-tips/#more-514)
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
-- :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
+- 📈 [TL;DR; Stock Options](https://web.archive.org/web/20190304234515/https://tldroptions.io/)
+    - [Discussion on HN #1](https://news.ycombinator.com/item?id=14463260)
+    - [Discussion on HN #2](https://news.ycombinator.com/item?id=19301570)
+- 📄 [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
@@ -174,7 +201,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 - :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
 - :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
-- :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY&t=403s)
+- :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://wwwtube.com/watch?v=bmSAYlu0NcY&t=403s)
 
 ###  Fine-tune Your Resume 
 - :hammer: [CV Compiler](https://cvcompiler.com/)
@@ -259,3 +286,37 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [At Coder](https://atcoder.jp/)
 - :link: [Codility](https://www.codility.com/)
 - :link: [ICPC Problem Archive](https://icpc.kattis.com/)
+- :link: [Codemia](https://codemia.io/)
+- :link: [LabEx](https://labex.io/)
+- :link: [Codebattle](https://codebattle.hexlet.io/)
+
+### Learning through entertainment:
+- [Robocode](https://robocode.sourceforge.io/)
+- [Elevatorsaga](https://play.elevatorsaga.com/)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/)
+- [CSS Diner](https://flukeout.github.io/)
+- [CodingGame](https://www.codingame.com/start/)
+
+
+### Platform Engineering
+
+> A modern discipline that evolved from DevOps and SRE principles, focused on improving developer experience and productivity by building and managing self-service tools and workflows, often through an Internal Developer Platform (IDP). The goal is to reduce cognitive load on developers and streamline the path to production.
+
+- **What is Platform Engineering?**
+    * [Microsoft Learn: What is platform engineering?](https://learn.microsoft.com/en-us/platform-engineering/what-is-platform-engineering)  
+    A comprehensive overview of the practice, its goals, and core capabilities.
+    * [Atlassian: What is Platform Engineering?](https://www.atlassian.com/developer-experience/platform-engineering)  
+    A great explanation of the roles and responsibilities of a platform team.
+
+- **Internal Developer Platform (IDP)**
+    * [internaldeveloperplatform.org: What is an IDP?](https://internaldeveloperplatform.org/what-is-an-internal-developer-platform/)  
+    A foundational resource explaining the concept of an IDP as the core product of a platform team.
+    * [Atlassian: Internal Developer Platform Guide](https://www.atlassian.com/developer-experience/internal-developer-platform)  
+    A deep dive into the benefits and best practices for building an IDP.
+
+- **Golden Paths (Paved Roads)**
+    * [Spotify Engineering: How we use Golden Paths to solve fragmentation](https://backstage.spotify.com/learn/onboarding-software-to-backstage/setting-up-software-templates/11-spotify-templates/)  
+    The original concept from Spotify, explaining how they use "opinionated and supported paths" to guide developers.
+    * [Red Hat: What is a Golden Path for software development?](https://www.redhat.com/en/topics/devops/golden-paths)  
+    * A clear article on how Golden Paths provide templates and standardized workflows to increase efficiency.
+

@@ -286,6 +286,15 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [LabEx](https://labex.io/)
 - :link: [Codebattle](https://codebattle.hexlet.io/)
 
+### Learning through entertainment:
+- [Robocode](https://robocode.sourceforge.io/)
+- [Elevatorsaga](https://play.elevatorsaga.com/)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/)
+- [CSS Diner](https://flukeout.github.io/)
+- [CodingGame](https://www.codingame.com/start/)
+- [Regex crossword](https://regexcrossword.com/)
+
+
 ### Platform Engineering
 
 > A modern discipline that evolved from DevOps and SRE principles, focused on improving developer experience and productivity by building and managing self-service tools and workflows, often through an Internal Developer Platform (IDP). The goal is to reduce cognitive load on developers and streamline the path to production.

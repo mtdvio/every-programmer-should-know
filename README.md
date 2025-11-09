@@ -113,7 +113,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### UX/Usability
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
-- :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+- :movie_camera: [Inventing on Principle](https://vimeo.com/906418692)
 
 
 ### SEO

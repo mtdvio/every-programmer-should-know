@@ -197,6 +197,7 @@ But knowing the stuff will help you become better! :muscle:*
 - 📄 [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
+- :book: [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 - :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)

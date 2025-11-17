@@ -322,3 +322,5 @@ But knowing the stuff will help you become better! :muscle:*
     * [Red Hat: What is a Golden Path for software development?](https://www.redhat.com/en/topics/devops/golden-paths)  
     * A clear article on how Golden Paths provide templates and standardized workflows to increase efficiency.
 
+### Mental Health and Personal Fitness
+- :muscle: [Simple Daily Stretching Routine](https://phrakture.github.io/starting-stretching.html)

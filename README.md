@@ -94,7 +94,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :scroll: [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 
 ### Machine Learning
-- :school: [Andrew NG Machine Learning Specification Class](https://www.coursera.org/specializations/machine-learning-introduction)
+- :school: [Andrew NG Machine Learning Specialization Class](https://www.coursera.org/specializations/machine-learning-introduction)
 
 ### RegExp
 - :link: [RegexHQ](https://github.com/regexhq)
@@ -276,7 +276,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [Firecode.io](https://www.firecode.io/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
-- :link: [uCoder](https://ucoder.com.br)
 - :link: [LintCode](https://www.lintcode.com/)
 - :link: [CodeCombat](https://codecombat.com/)
 - :link: [InterviewCake](https://www.interviewcake.com/)

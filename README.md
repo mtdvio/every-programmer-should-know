@@ -22,6 +22,7 @@ Comes in no particular order :recycle:
 
 <br>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for software engineering orchestration, automated development workflow, and multi-agent coordination. MIT licensed.
 ### :star: it and share with a friendly developer!  
 
 <br>

@@ -143,6 +143,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
 - :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
 - :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
+- :page_facing_up: [NASA's 10 Rules for Writing Safety-Critical Code](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code)
 - :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
 - :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
 - :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)

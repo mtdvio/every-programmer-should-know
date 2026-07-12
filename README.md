@@ -36,7 +36,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Introduction
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](https://web.archive.org/web/20260324072327/https://carlcheo.com/compsci)
 - :page_facing_up: [Computer Science Roadmap](https://roadmap.sh/computer-science)
 - :page_facing_up: [Community-driven Roadmaps for Developers](https://github.com/kamranahmedse/developer-roadmap)
 

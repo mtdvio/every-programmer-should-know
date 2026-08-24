@@ -95,6 +95,8 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Machine Learning
 - :school: [Andrew NG Machine Learning Specification Class](https://www.coursera.org/specializations/machine-learning-introduction)
+- :link: [Hugging Face AI Agents Course](https://huggingface.co/learn/agents-course)
+- :link: [LLM Powered Autonomous Agents - Lilian Weng](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 ### RegExp
 - :link: [RegexHQ](https://github.com/regexhq)

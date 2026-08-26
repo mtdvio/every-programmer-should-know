@@ -317,5 +317,17 @@ But knowing the stuff will help you become better! :muscle:*
     * [Spotify Engineering: How we use Golden Paths to solve fragmentation](https://backstage.spotify.com/learn/onboarding-software-to-backstage/setting-up-software-templates/11-spotify-templates/)  
     The original concept from Spotify, explaining how they use "opinionated and supported paths" to guide developers.
     * [Red Hat: What is a Golden Path for software development?](https://www.redhat.com/en/topics/devops/golden-paths)  
-    * A clear article on how Golden Paths provide templates and standardized workflows to increase efficiency.
+    A clear article on how Golden Paths provide templates and standardized workflows to increase efficiency.
+
+### AI Engineering & LLM Agents
+
+> The emerging discipline focused on building applications with Foundation Models, LLM Agents, Model Context Protocol (MCP), and structured reasoning architectures.
+
+- **Foundations & Architectures**
+    * [What is an AI Agent? (IBM)](https://www.ibm.com/think/topics/ai-agents)  
+    A clear conceptual introduction to autonomous agents, reasoning loops, and tool execution.
+    * [ReAct: Synergizing Reasoning and Acting in Language Models (ICLR)](https://arxiv.org/abs/2210.03629)  
+    The foundational paradigm combining reasoning traces and task-specific actions.
+    * [Model Context Protocol (MCP) Specification](https://modelcontextprotocol.io/)  
+    An open standard for secure, bi-directional context connections between AI models and developer tools.
 

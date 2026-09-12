@@ -236,6 +236,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- :book: [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 
 ### Services :zap:
 - 🤖 [Abstract API's](https://www.abstractapi.com)

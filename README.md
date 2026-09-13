@@ -201,6 +201,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://wwwtube.com/watch?v=bmSAYlu0NcY&t=403s)
 
 ###  Fine-tune Your Resume 
+- :hammer: [ResumeAI](https://withresumeai.com/) — free ATS resume checker (3/day anonymous, 10/day free account) + [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) (738 employers, 704 portal-verified; Workday 37.9%)
 - :hammer: [CV Compiler](https://cvcompiler.com/)
 
 ### Open Source

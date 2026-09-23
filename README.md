@@ -95,6 +95,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Machine Learning
 - :school: [Andrew NG Machine Learning Specification Class](https://www.coursera.org/specializations/machine-learning-introduction)
+- :school: [QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=every-programmer-should-know) - Short daily lessons with hands-on exercises and spaced repetition, from Python and PyTorch through ML foundations, NLP, and vision.
 
 ### RegExp
 - :link: [RegexHQ](https://github.com/regexhq)

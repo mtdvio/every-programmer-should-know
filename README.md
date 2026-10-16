@@ -77,6 +77,8 @@ But knowing the stuff will help you become better! :muscle:*
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
+- :page_facing_up: [The model is fast. Why is the response slow?](https://systemsunpacked.dev/preview/ai-serving) - Interactive explanation of queueing and service time using a fixed-duration worker model.
+
 ### Time
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
 - :movie_camera: [The Problem with Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)

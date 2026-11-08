@@ -197,6 +197,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 - :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
+- :link: [Practick | Free peer-to-peer mock interviews](https://practick.io/)
 - :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
 - :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://wwwtube.com/watch?v=bmSAYlu0NcY&t=403s)
 
